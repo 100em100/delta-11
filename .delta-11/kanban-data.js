@@ -6,7 +6,7 @@
 window.KANBAN_DATA = {
   projeto: "",
   complexidade: "",
-  fase_atual: "",
+  fase_atual: "Aguardando novo projeto",
   ultima_atualizacao: "",
   agente_atualizador: "",
 
@@ -25,18 +25,14 @@ window.KANBAN_DATA = {
   },
 
   // Tarefas em execução
-  // Formato: { id: "T-001", desc: "Descrição", agente: "NOME", inicio: "HH:MM" }
   fazendo: [],
 
   // Tarefas aguardando revisão
-  // Formato: { id: "T-001", desc: "Descrição", por: "NOME", revisor: "NOME" }
   revisao: [],
 
   // Tarefas concluídas
-  // Formato: { id: "T-001", desc: "Descrição", por: "NOME", aprovado: "NOME", data: "DD/MM" }
   concluido: [],
 
   // Tarefas bloqueadas
-  // Formato: { id: "T-001", desc: "Descrição", agente: "NOME", motivo: "texto", precisa: "ATLAS/comandante" }
   bloqueado: []
 };

@@ -2,99 +2,38 @@
 
 > Cada agente lê este arquivo para saber o que fazer.
 > Cada agente atualiza este arquivo ao concluir uma tarefa.
-> O comandante acompanha o progresso em tempo real pela preview do VS Code.
 
-**Projeto:** [preenchido pelo ATLAS na Fase 2]
-**Complexidade:** [BAIXA / MÉDIA / ALTA]
-**Fase atual:** [preenchido pelo ATLAS]
-**Última atualização:** [data, hora, agente que atualizou]
-
----
-
-## 📋 BACKLOG (tarefas não atribuídas)
-
-<!-- Tarefas identificadas mas ainda não distribuídas -->
+**Projeto:** [a definir]
+**Complexidade:** [a definir]
+**Fase atual:** Aguardando novo projeto
+**Última atualização:** —
 
 ---
 
-## 🏗️ ATLAS — A FAZER
+## BACKLOG (tarefas não atribuídas)
 
-<!-- Tarefas de planejamento e arquitetura -->
-
----
-
-## 📊 CRONOS — A FAZER
-
-<!-- Tarefas de gestão (somente em alta complexidade) -->
+<!-- Nenhuma -->
 
 ---
 
-## 🖥️ FRONT — A FAZER
+## A FAZER
 
-<!-- Tarefas de liderança e revisão de interface -->
-
----
-
-## 🎨 PIXEL — A FAZER
-
-<!-- Tarefas de componentes visuais e páginas -->
+<!-- Nenhuma tarefa -->
 
 ---
 
-## 📝 FORM — A FAZER
+## FAZENDO
 
-<!-- Tarefas de formulários e validações -->
-
----
-
-## ⚙️ BACK — A FAZER
-
-<!-- Tarefas de liderança e revisão de servidor -->
+<!-- Nenhuma tarefa em andamento -->
 
 ---
 
-## 🔧 ENGINE — A FAZER
+## REVISÃO
 
-<!-- Tarefas de rotas e lógica de negócio -->
-
----
-
-## 🔐 VAULT — A FAZER
-
-<!-- Tarefas de banco de dados e autenticação -->
+<!-- Nenhuma tarefa em revisão -->
 
 ---
 
-## 🛡️ SHIELD — A FAZER
+## CONCLUÍDO
 
-<!-- Tarefas de testes, segurança e infraestrutura -->
-
----
-
-## 🔍 SCOUT — A FAZER
-
-<!-- Erros para diagnosticar e corrigir -->
-
----
-
-## ⚡ FAZENDO
-
-<!-- Formato: **[ID]** — [Descrição] | Agente: [NOME] | Início: [hora] -->
-
----
-
-## 👁️ REVISÃO
-
-<!-- Formato: **[ID]** — [Descrição] | Por: [agente] | Revisor: [SHIELD ou líder] -->
-
----
-
-## ✅ CONCLUÍDO
-
-<!-- Formato: **[ID]** — [Descrição] | Por: [agente] | Aprovado: [SHIELD] | Data: [data] -->
-
----
-
-## 🚫 BLOQUEADO
-
-<!-- Formato: **[ID]** — [Descrição] | Agente: [nome] | Motivo: [detalhe] | Precisa de: [ATLAS/comandante] -->
+<!-- Nenhuma tarefa concluída -->
